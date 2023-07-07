@@ -1,0 +1,12 @@
+In this project the dataset contains Survey reports of a company regarding their 
+profession in Data Domain
+
+This excel file is imported into the Powerbi and Data cleaning had been made like delete and replace missing values 
+converting USD into dollar, and created new column as Sales Average for better 
+analysis using Power Query editor
+
+Then data modeling was done , then data visualisation were done using powerbi charts
+This Charts shows Effective insights regarding the Data  Professionals Salary, happiness,
+yearly trend , average salary of the professionals in various countries.
+
+Final output  of this Project had been uploaded.
