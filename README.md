@@ -1,4 +1,4 @@
-# Data-survey-project
+# DataProfessionals-survey-project
 
 Successfully completed a data professional survey project by utilizing Power BI as the primary tool for data cleaning and
  visualization. Conducted thorough data cleaning and transformation to ensure data accuracy and consistency for analysis.
